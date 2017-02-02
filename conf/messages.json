@@ -1,0 +1,14 @@
+{
+  "messages": [
+    {
+      "messageId": "1",
+      "messageName": "Первое сообщение",
+      "messageText": "Какой-то текст...."
+    },
+    {
+      "messageId": "2",
+      "messageName": "Второе сообщение",
+      "messageText": "Ололо...."
+    }
+  ]
+}
